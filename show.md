@@ -30,3 +30,5 @@ void display(){
 4. ~~删除线~~
 
 [another.md](README.md)
+
+![696d85fc35d74c0435929a0cf9479bfe](696d85fc35d74c0435929a0cf9479bfe.jpeg)
